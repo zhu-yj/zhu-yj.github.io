@@ -1,5 +1,4 @@
-#第一个blog
-##
-1、深度学习入门
-2、ros操作panda
-## ubuntu & ros
+# ZhuYongjian's blog
+### process
+深度学习入门  
+ubuntu & ros 操作 panda
